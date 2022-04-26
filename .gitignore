@@ -1,0 +1,11 @@
+# Ne pas sauvegarder les fichiers data, cours et ressources ...
+/AWS
+/Cours_et_Exercices
+/Documentation
+/Ressources
+/sav
+/Test
+/Application/.ipynb_checkpoints
+/Soutenance
+/Livrables
+
